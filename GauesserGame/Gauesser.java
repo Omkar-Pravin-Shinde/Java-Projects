@@ -80,7 +80,7 @@ class umpire
         if (i == k) {
             System.out.println(
                 "You have exhausted"
-                + " K trials.");
+                + k +" trials.");
  
             System.out.println(
                 "The number was " + numFromGenerator);
